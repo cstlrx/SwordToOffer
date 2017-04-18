@@ -1,5 +1,7 @@
 package ArrayTest;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 /**
  * Created by lrx on 2017/4/17.
  */
